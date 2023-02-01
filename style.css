@@ -15,6 +15,7 @@
     border-radius: 3px;
     
 }
+
 .mainbody
 {
     
@@ -42,7 +43,8 @@
 
 .itemsofmain
 {
-    
+ padding-left: 2px;
+ padding-right: 2px;   
    color: white;
     background-color: rgb(0, 0, 0);
     border: 3px rgb(255, 255, 255) solid;
@@ -131,8 +133,8 @@ a:hover
 .items
 {
     color: rgb(255, 255, 255);
-    padding-top: 10px;
-    font-size: 30px;
+    padding-top: 23px;
+    font-size: 20px;
     text-shadow: 2PX 2PX rgb(255, 0, 0);
     text-align: center;
     background-color: rgb(0, 0, 0);
